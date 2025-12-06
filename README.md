@@ -7,7 +7,7 @@ This project analyzes Smart Home energy usage recorded every 15 minutes across d
 ## 📌 Dataset Overview  
 
 Source (Kaggle):  
-🔗 https://www.kaggle.com/datasets/taranvee/smart-home-energy-tracking  
+🔗 https://www.kaggle.com/datasets/mexwell/smart-home-energy-consumption
 
 Dataset contains:
 - 10 homes  
